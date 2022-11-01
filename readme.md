@@ -1,6 +1,6 @@
 # Electiva Fundamentos de Computacion Evolutiva
 
-Cada **branch** es un ejemplo, problema, algoritmo.
+## Branch de Consistencia de arcos
 
 ## Instalar dependencias
 
